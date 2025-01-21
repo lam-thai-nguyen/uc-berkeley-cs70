@@ -23,3 +23,4 @@
 
 I take this course in the following order.
 
+- Week 0: n0 >> n1 >> disc0b >> hw0 
