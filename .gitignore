@@ -1,4 +1,5 @@
 *.tex
 *.aux
+*.out
 *.log
 *.gz
